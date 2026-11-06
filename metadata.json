@@ -1,0 +1,6 @@
+{
+  "name": "APK Inspector",
+  "description": "Deep APK Inspector: Explore, search, analyze, view, edit and inspect APK structures and packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
